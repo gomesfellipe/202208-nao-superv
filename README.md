@@ -19,11 +19,12 @@ Fora do horário de aula ou monitoria:
 
 ## Slides
 
-| slides                                                                                                      | pdf                                                                                                         |
-|:------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
-| [01-introducao-ao-curso.html](https://curso-r.github.io/main-nao-superv/slides/01-introducao-ao-curso.html) | [01-introducao-ao-curso.html](https://curso-r.github.io/main-nao-superv/slides/01-introducao-ao-curso.html) |
-| [02-introducao.html](https://curso-r.github.io/main-nao-superv/slides/02-introducao.html)                   | [02-introducao.html](https://curso-r.github.io/main-nao-superv/slides/02-introducao.html)                   |
-| [03-clusterizacao.html](https://curso-r.github.io/main-nao-superv/slides/03-clusterizacao.html)             | [03-clusterizacao.html](https://curso-r.github.io/main-nao-superv/slides/03-clusterizacao.html)             |
+| slides                                                                                                                | pdf                                                                                                                   |
+|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| [01-introducao-ao-curso.html](https://curso-r.github.io/main-nao-superv/slides/01-introducao-ao-curso.html)           | [01-introducao-ao-curso.html](https://curso-r.github.io/main-nao-superv/slides/01-introducao-ao-curso.html)           |
+| [02-introducao.html](https://curso-r.github.io/main-nao-superv/slides/02-introducao.html)                             | [02-introducao.html](https://curso-r.github.io/main-nao-superv/slides/02-introducao.html)                             |
+| [03-clusterizacao.html](https://curso-r.github.io/main-nao-superv/slides/03-clusterizacao.html)                       | [03-clusterizacao.html](https://curso-r.github.io/main-nao-superv/slides/03-clusterizacao.html)                       |
+| [04-reducao-dimensionalidade.html](https://curso-r.github.io/main-nao-superv/slides/04-reducao-dimensionalidade.html) | [04-reducao-dimensionalidade.html](https://curso-r.github.io/main-nao-superv/slides/04-reducao-dimensionalidade.html) |
 
 ## Scripts utilizados em aula
 
