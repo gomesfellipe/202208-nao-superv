@@ -32,6 +32,10 @@ Fora do horário de aula ou monitoria:
 |:------------------------------------------------------------------------------------------------------------------------------------|
 | [exemplos_de_aula/0-introducao.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/0-introducao.R)         |
 | [exemplos_de_aula/01-clusterizacao.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/01-clusterizacao.R) |
+| [exemplos_de_aula/02-kmeans.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/02-kmeans.R)               |
+| [exemplos_de_aula/03-pca-2d.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/03-pca-2d.R)               |
+| [exemplos_de_aula/04-pca.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/04-pca.R)                     |
+| [exemplos_de_aula/05-tsne.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/05-tsne.R)                   |
 
 ## Lição de casa
 
