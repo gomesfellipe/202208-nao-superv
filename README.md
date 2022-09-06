@@ -28,14 +28,16 @@ Fora do horário de aula ou monitoria:
 
 ## Scripts utilizados em aula
 
-| script                                                                                                                                |
-| :------------------------------------------------------------------------------------------------------------------------------------ |
-| [exemplos\_de\_aula/0-introducao.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/0-introducao.R)         |
-| [exemplos\_de\_aula/01-clusterizacao.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/01-clusterizacao.R) |
-| [exemplos\_de\_aula/02-kmeans.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/02-kmeans.R)               |
-| [exemplos\_de\_aula/03-pca-2d.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/03-pca-2d.R)               |
-| [exemplos\_de\_aula/04-pca.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/04-pca.R)                     |
-| [exemplos\_de\_aula/05-tsne.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/05-tsne.R)                   |
+| script                                                                                                                                        |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| [exemplos\_de\_aula/0-introducao.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/0-introducao.R)                 |
+| [exemplos\_de\_aula/01-clusterizacao.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/01-clusterizacao.R)         |
+| [exemplos\_de\_aula/02-kmeans.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/02-kmeans.R)                       |
+| [exemplos\_de\_aula/03-pca-2d.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/03-pca-2d.R)                       |
+| [exemplos\_de\_aula/04-pca.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/04-pca.R)                             |
+| [exemplos\_de\_aula/05-tsne.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/05-tsne.R)                           |
+| [exemplos\_de\_aula/06-modelos-mistura.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/06-modelos-mistura.R)     |
+| [exemplos\_de\_aula/07-deteccao-outliers.R](https://github.com/curso-r/202208-nao-superv/blob/master/exemplos_de_aula/07-deteccao-outliers.R) |
 
 ## Lição de casa
 
