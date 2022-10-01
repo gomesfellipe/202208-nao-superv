@@ -1,0 +1,58 @@
+---
+title: "Untitled"
+output: html_document
+date: "2022-09-26"
+---
+
+```{r setup, include=FALSE}
+# install_keras()
+Sys.unsetenv("RETICULATE_PYTHON")
+reticulate::use_miniconda("~/Library/r-miniconda-arm64")
+knitr::opts_chunk$set(echo = TRUE)
+
+Sys.setenv(RETICULATE_PYTHON = "~/Library/r-miniconda-arm64")
+Sys.getenv("RETICULATE_PYTHON")
+```
+
+```{r dependencies}
+# Importar dependencias
+library(keras)
+library(tensorflow)
+Sys.unsetenv("RETICULATE_PYTHON")
+use_python('/Users/fellipegomes/Library/r-miniconda-arm64/envs/r-reticulate/bin/python')
+use_condaenv("~/Library/r-miniconda-arm64")
+library(tidyverse)
+library(patchwork)
+
+# reprodutibilidade
+set.seed(1)
+
+# funcao equivalente a np.clip do python
+clip <- function(x, lower, upper) {
+  pmax(pmin(x, upper), lower)
+}
+
+# tema para graficos
+theme_set(theme_classic()+theme(legend.position = "bottom")) 
+```
+
+```{r}
+# Carregar dados
+mnist   <- dataset_mnist()
+x_train <- mnist$train$x
+y_train <- mnist$train$y
+x_test  <- mnist$test$x
+y_test  <- mnist$test$y
+
+# Normalizar dados no intervalo [0,1]
+x_train <- x_train / 255
+x_test <-  x_test / 255
+
+
+```
+
+
+
+
+
+
